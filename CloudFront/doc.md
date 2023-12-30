@@ -39,7 +39,7 @@
 
 #### CloudFront – ALB or EC2 as an origin
 
-![img_3.png](img_3.png)
+![img.png](img.png)
 
 --- 
 

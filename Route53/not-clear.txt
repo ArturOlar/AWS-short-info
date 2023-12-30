@@ -1,4 +1,0 @@
-Health Checks
-https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c03/learn/lecture/13528200#overview
-https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c03/learn/lecture/28384354#overview
-https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c03/learn/lecture/13528210#overview
