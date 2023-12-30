@@ -1,0 +1,2 @@
+aurora global database
+aurora read replicas
